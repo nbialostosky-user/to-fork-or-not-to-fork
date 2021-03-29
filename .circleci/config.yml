@@ -11,6 +11,7 @@ jobs:
       - image: cimg/base:stable
     steps:
       - run: exit 1
+      
 workflows:
   # Name the workflow "welcome"
   welcome:
