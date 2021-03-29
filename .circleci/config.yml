@@ -18,4 +18,3 @@ workflows:
     jobs:
       - welcome/run
       - fail
-      
